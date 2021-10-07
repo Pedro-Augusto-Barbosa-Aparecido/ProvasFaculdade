@@ -21,6 +21,8 @@ int main() {
     cout << *pont << endl;
     pont++;
     cout << *pont << endl;
+    pont--;
+    cout << *pont << endl;
 
     return 8;
 
