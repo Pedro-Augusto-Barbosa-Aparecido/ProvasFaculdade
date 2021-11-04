@@ -1,7 +1,8 @@
 {
     "files.associations": {
         "iostream": "cpp",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "list": "cpp"
     },
     "cmake.configureOnOpen": false
 }
