@@ -31,6 +31,7 @@ void cria_aresta(list<no>adj[], int u, int v, int p, int orientado) {
 
 }
 
+
 void bfs(list<no>adj[], int nVertices, int s) {
     int state[10], p[10];
     int u = 0, v = 0;
